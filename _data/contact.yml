@@ -7,6 +7,14 @@
   type: twitter
   icon: 'fab fa-twitter'
 -
+  type: mastodon
+  icon: 'fab fa-mastodon'
+  url:  'https://mastodon.gamedev.place/@emanuel'
+-
+  type: linkedin
+  icon: 'fab fa-linkedin'
+  url:  'https://www.linkedin.com/in/emanuelpm'
+-
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
@@ -17,13 +25,17 @@
 
 # Uncomment and complete the url below to enable more contact options
 # -
+#   type: xbox
+#   icon: 'fab fa-xbox'
+#   url: 'https://account.xbox.com/en-us/profile?gamertag=EmanuelM'
+# -
+#   type: steam
+#   icon: 'fab fa-steam'
+#   url: 'https://steamcommunity.com/id/emanuel/'
+# -
 #   type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your mastodon account page
-# -
-#   type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
 # -
 #   type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
