@@ -4,9 +4,6 @@
   type: github
   icon: 'fab fa-github'
 -
-  type: twitter
-  icon: 'fab fa-twitter'
--
   type: mastodon
   icon: 'fab fa-mastodon'
   url:  'https://mastodon.gamedev.place/@emanuel'
@@ -14,6 +11,10 @@
   type: linkedin
   icon: 'fab fa-linkedin'
   url:  'https://www.linkedin.com/in/emanuelpm'
+ -
+   type: xbox
+   icon: 'fab fa-xbox'
+   url: 'https://account.xbox.com/en-us/profile?gamertag=EmanuelM'
 -
   type: email
   icon: 'fas fa-envelope'
@@ -25,9 +26,8 @@
 
 # Uncomment and complete the url below to enable more contact options
 # -
-#   type: xbox
-#   icon: 'fab fa-xbox'
-#   url: 'https://account.xbox.com/en-us/profile?gamertag=EmanuelM'
+#  type: twitter
+#  icon: 'fab fa-twitter'
 # -
 #   type: steam
 #   icon: 'fab fa-steam'
