@@ -1,0 +1,11 @@
+# -------------------------------------
+# {author_id}:
+#   name: {full name}
+#   twitter: {twitter_of_author}
+#   url: {homepage_of_author}
+# -------------------------------------
+
+emanuel:
+  name: Emanuel Masciarelli
+  mastodon: https://mastodon.gamedev.place/@emanuel
+  url: https://github.com/emanuelpm/
